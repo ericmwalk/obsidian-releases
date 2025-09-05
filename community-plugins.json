@@ -17200,10 +17200,10 @@
   },
   {
     "id": "statuslol-post",
-    "name": "Status.lol Publisher",
+    "name": "OMG.lol Publisher",
     "author": "Eric Walker",
-    "description": "Post statuses to status.lol, log notes option, and mobile compatibility.",
-    "repo": "ericmwalk/obsidian-statuslol"
+    "description": "Post to weblogs.lol and status.lol directly from Obsidian, with logging and mobile support.",
+    "repo": "ericmwalk/obsidian-omglol-publish"
   },
   {
     "id": "come-through",
